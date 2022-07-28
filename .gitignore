@@ -1,5 +1,7 @@
+ # ignore files called .classpatch .settngs
  .classpatch
   .settings
  /node_modules
+ # ignore folder called node_modules
 
 
